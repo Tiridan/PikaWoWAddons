@@ -6,6 +6,10 @@
 
 ## UnBot Custom
 
+Расширенная версия UnBot для управления ботами и собственными альтами: подбор состава по ролям, личные наборы экипировки и талантов, бафф-циклы, поведение и помощники для отдельных боёв. Игрок сохраняет нужный состав и настройки, затем повторяет подготовку через интерфейс или макрос.
+
+[Что такое UnBot Custom и чем он отличается от обычного UnBot](docs/UnBotCustom/README.md) · [Полный справочник команд](docs/UnBotCustom/COMMANDS_RU.md)
+
 [Скачать UnBot Custom 6.44.10-public.1](downloads/UnBotCustom-6.44.10-public.1.zip) · [Исходники](AddOns/UnBotCustom/) · [Установка и перенос настроек](docs/UnBotCustom/INSTALL_RU.txt) · [Патчнота](docs/UnBotCustom/PATCH_NOTES_RU.txt)
 
 Перед включением UnBot Custom отключите обычный UnBot. Публичная версия содержит общую базу обычных ботов; личные привязки аккаунтов из неё исключены. Отдельный репозиторий [Tiridan/UnBotCustom](https://github.com/Tiridan/UnBotCustom) также доступен.
