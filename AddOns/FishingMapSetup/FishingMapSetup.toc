@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: Fishing Map Setup
+## Notes: Imports the bundled GatherMate fishing database and enables fishing pins.
+## Notes-ruRU: Импортирует базу рыбных мест GatherMate и включает значки рыбалки на карте.
+## Author: Local setup helper
+## Version: 1.0
+## Dependencies: GatherMate, GatherMate_Data
+## SavedVariables: FishingMapSetupDB
+
+FishingMapSetup.lua

@@ -1,0 +1,13 @@
+## Interface: 30300
+## Title: PikaBankViewer | Банк и Ling
+## Notes: Сохранённый личный банк и хранилище Ling с категориями.
+## Author: Tiridan
+## Version: 0.3.13
+## OptionalDeps: UnBot, UnBotCustom, OneBag3, OneBank3, Bagnon, ArkInventory, AdiBags, DialogUI
+## SavedVariables: PikaBankViewerDB
+Migration.lua
+Core.lua
+UI.lua
+BotDeposit.lua
+
+Integrations.lua

@@ -1,0 +1,7 @@
+WTF/
+SavedVariables/
+reports/
+backups/
+*.log
+*.bak
+.env*

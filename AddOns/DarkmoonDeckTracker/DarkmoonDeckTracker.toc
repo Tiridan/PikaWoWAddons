@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: Darkmoon Deck Tracker
+## Notes: Показывает карты Новолуния, недостающие карты и награды за колоды.
+## Author: Codex
+## Version: 1.0.1
+## SavedVariables: DarkmoonDeckTrackerDB
+
+Data.lua
+Core.lua

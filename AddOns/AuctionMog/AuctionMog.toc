@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: AuctionMog
+## Notes: Native auction browse filter using transmogTip.
+## Notes-ruRU: Галочка «Новый трансмог» в стандартном аукционе.
+## Author: Codex
+## Version: 1.2.1
+## Dependencies: Auctionator, transmogTip
+Core.lua
+UI.lua
+Browse.lua

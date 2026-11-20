@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: Thorium Brotherhood Guide
+## Notes: Пошаговый помощник по репутации Братства Тория
+## Author: Codex
+## Version: 1.0.5
+## SavedVariables: ThoriumBrotherhoodGuideDB
+## OptionalDeps: Questie-335, TomTom, MinimapButtonButton
+
+Data.lua
+Core.lua
+UI.lua

@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: BagBin | Корзина
+## Notes: Очистка дешёвого хлама по цене полного стака. /bagbin
+## Author: Codex
+## Version: 1.12.0
+## SavedVariablesPerCharacter: BagBinDB
+Core.lua
+UI.lua
+Vendor.lua

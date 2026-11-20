@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: UnBotTrace
+## Notes: Readable summon diagnostics and an explicit registry command sweep for screen recording.
+## Author: Codex
+## Version: 1.2.0
+## OptionalDeps: UnBotCustom
+## SavedVariables: UnBotTraceDB
+Core.lua
+UI.lua

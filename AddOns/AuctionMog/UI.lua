@@ -1,0 +1,2 @@
+-- Retained as an empty compatibility file for cached TOC lists.
+-- The separate window and launcher were removed in 1.2.0.

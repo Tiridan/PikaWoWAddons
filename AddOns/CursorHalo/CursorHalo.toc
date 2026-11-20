@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Cursor Halo
+## Notes: Always-visible high-contrast cursor halo for WotLK 3.3.5a.
+## Notes-ruRU: Постоянная контрастная метка вокруг курсора для WotLK 3.3.5a.
+## Author: Codex
+## Version: 1.0.1
+
+CursorHalo.lua

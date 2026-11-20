@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: UnBot RetHelper
+## Notes: Secure manual helper panel for Retribution Paladin (WotLK 3.3.5a)
+## Version: 1.0.3
+## Author: UnBot custom project
+## OptionalDeps: UnBotCustom
+## SavedVariables: UnBotRetHelperDB
+
+RetHelper.lua

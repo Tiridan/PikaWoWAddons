@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Triage Helper
+## Notes: Подсвечивает пациентов по порядку оказания помощи в заданиях 6622/6624.
+## Author: Codex
+## Version: 1.0.1
+## OptionalDeps: ProfessionPath
+
+Core.lua

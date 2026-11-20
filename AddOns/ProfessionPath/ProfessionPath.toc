@@ -1,0 +1,12 @@
+## Interface: 30300
+## Title: Profession Path | Путь ремесленника
+## Notes: Прогресс профессий, маршруты, помощь с заданиями и отслеживание ресурсов.
+## Author: Codex
+## Version: 1.2.5
+## SavedVariables: ProfessionPathDB
+## OptionalDeps: TomTom, GatherMate, Routes
+Data.lua
+Core.lua
+UI.lua
+Tracking.lua
+Triage.lua

@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: Chat Timestamps
+## Notes: Adds configurable local time to every chat message.
+## Notes-ruRU: Добавляет настраиваемое локальное время к сообщениям чата.
+## Version: 1.0.1
+## Author: Codex
+## SavedVariables: ChatTimestampsDB
+
+ChatTimestamps.lua

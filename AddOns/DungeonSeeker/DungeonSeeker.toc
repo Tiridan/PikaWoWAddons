@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: DungeonSeeker - Поиск подземелья
+## Notes: Две кнопки для входа/выхода и выбор конкретного подземелья.
+## Author: Codex
+## Version: 1.1.6
+## SavedVariablesPerCharacter: DungeonSeekerDB
+Core.lua
+UI.lua
